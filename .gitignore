@@ -1,0 +1,11 @@
+# Real recorded samples can be large and personal -- keep them local
+# unless you deliberately want them on GitHub. Sample data is the
+# exception: data/sample/ is synthetic and IS committed.
+data/*/
+!data/sample/
+__pycache__/
+*.pyc
+models/
+.venv/
+venv/
+.DS_Store
