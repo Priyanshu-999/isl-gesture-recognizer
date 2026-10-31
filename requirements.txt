@@ -7,3 +7,6 @@ joblib>=1.3
 # Webcam demo + data collection only (install these on the Windows PC).
 opencv-python>=4.8
 mediapipe>=0.10
+
+# Docs build only (regenerate docs/UNDERSTANDING.pdf).
+fpdf2>=2.7

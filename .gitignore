@@ -6,6 +6,9 @@ data/*/
 __pycache__/
 *.pyc
 models/
+*.db
+*.sqlite3
+data/*.npy
 .venv/
 venv/
 .DS_Store
